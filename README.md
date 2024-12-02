@@ -1,5 +1,6 @@
 # Luis Ubillus  
 **3ro TSDS**
+Open app_guess folder
 
 This program is developed in **Android Studio** (Kotlin).  
 It takes the user's age as input and determines whether the user is an adult or not.  
